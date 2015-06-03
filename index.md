@@ -1,3 +1,8 @@
+---
+title: LaTeX Templates
+layout: index
+---
+
 # latextemplates
 
 This organization is a collection of various templates and related projects
