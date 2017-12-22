@@ -11,12 +11,12 @@ All templates are open source an can be found at <https://github.com/latextempla
 ## Templates hosted under this organization
 
 ### Research templates
- * <https://github.com/latextemplates/LNCS> a modified template for the Springer LNCS series
- * <https://github.com/latextemplates/LNI> a modified template for the Springer LNI series
+ * <https://github.com/latextemplates/LNCS> - a modified template for the Springer LNCS series
 
 ### Thesis templates
- * <https://github.com/latextemplates/uni-stuttgart-computer-science-template> for Bachelor and Master theses
- * <https://github.com/latextemplates/uni-stuttgart-dissertation-template> for disseratations
+ * <https://github.com/latextemplates/scientific-thesis-template> - a template for Bachelor and Master theses
+ * <https://github.com/latextemplates/uni-stuttgart-dissertation-template> - a template for dissertations at University of Stuttgart
+ * <https://github.com/latextemplates/SAGP> - a template for "[Soziale Arbeit, Gesundheit und Pflege](http://www.hs-esslingen.de/de/hochschule/fakultaeten/soziale-arbeit-gesundheit-und-pflege.html)" of Hochschule Esslingen
 
 ## Templates by others
  * <https://github.com/uniba-dsg/dsg-templates> templates for seminars, theses, presentation of the [Distributed Systems Group, Bamberg, Germany](https://www.uni-bamberg.de/pi).
