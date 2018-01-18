@@ -1,6 +1,3 @@
----
----
-
 # latextemplates
 
 This organization is a collection of various templates and related projects.
@@ -11,7 +8,7 @@ All templates are open source an can be found at <https://github.com/latextempla
 ## Templates hosted under this organization
 
 ### Research templates
- * <https://github.com/latextemplates/LNCS> - a modified template for the Springer LNCS series
+ * <https://latextemplates.github.io/LNCS/> - a quick start template for the Springer LNCS series
 
 ### Thesis templates
  * <http://latextemplates.github.io/scientific-thesis-template/> - a template for Bachelor and Master theses
