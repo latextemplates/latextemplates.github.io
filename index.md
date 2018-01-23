@@ -15,6 +15,24 @@ All templates are open source an can be found at <https://github.com/latextempla
  * <https://github.com/latextemplates/uni-stuttgart-dissertation-template> - a template for dissertations at University of Stuttgart
  * <https://github.com/latextemplates/SAGP> - a template for "[Soziale Arbeit, Gesundheit und Pflege](http://www.hs-esslingen.de/de/hochschule/fakultaeten/soziale-arbeit-gesundheit-und-pflege.html)" of Hochschule Esslingen
 
+### Comparison
+
+| template                             | microtype | minted | latexindent config |
+| ------------------------------------ | --------- | ------ | ------------------ |
+| LNI                                  | x         | p      | -                  |
+| LNCS                                 | x         | p      | x                  |
+| scientific-thesis-template           | x         | p      | x                  |
+| uni-stuttgart-dissertation-template  | x         | p      | -                  |
+
+#### Legend
+
+| key | meaning |
+| --- | ------- |
+| x   | included |
+| p   | prepared, but not included in default template |
+| -   | not configured |
+
+
 ## Templates by others
  * <https://github.com/uniba-dsg/dsg-templates> templates for seminars, theses, presentation of the [Distributed Systems Group, Bamberg, Germany](https://www.uni-bamberg.de/pi).
  * See also the templates listed at <https://github.com/latextemplates/scientific-thesis-template/issues/25>.
