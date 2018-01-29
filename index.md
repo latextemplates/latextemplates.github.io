@@ -28,17 +28,17 @@ All templates are open source an can be found at <https://github.com/latextempla
 
 #### Legend
 
-- [microtype]: Better look of the papers. See <http://www.khirevich.com/latex/microtype/> for a longer explanation of microtype's features.
-- [hyperref]: Support of hyperlinked references without extra color.
-- [hypcap]: Hyperlinks to figures jump to the beginning of the figure and not just to the caption.
-- [cleveref]: The most advanced cross-referencing packae. Just type `\cref{xy}` instead of `Fig.~\ref{xy}`. See <https://tex.stackexchange.com/a/36312/9075> for a complete comparison to other referencing packages.
-- [listings]: Typeset listings directly in latex.
-- [minted]: Source code highlighting like a pro.
+- [microtype] - Better look of the papers. See <http://www.khirevich.com/latex/microtype/> for a longer explanation of microtype's features.
+- [hyperref] - Support of hyperlinked references without extra color.
+- [hypcap] - Hyperlinks to figures jump to the beginning of the figure and not just to the caption.
+- [cleveref] - The most advanced cross-referencing packae. Just type `\cref{xy}` instead of `Fig.~\ref{xy}`. See <https://tex.stackexchange.com/a/36312/9075> for a complete comparison to other referencing packages.
+- [listings] - Typeset listings directly in latex.
+- [minted] - Source code highlighting like a pro.
   In contrast to listings, it uses [pygments](http://pygments.org/) to highlight code.
   That provides better results.
-- [latexindent] config: Ready-to-go configuration to reindent *.tex files
-- [cmap]: Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
-- [pdfcomment]: This is one of those TODO packges. Comments are included in the PDF as separate layer.
+- [latexindent] config - Ready-to-go configuration to reindent *.tex files
+- [cmap] - Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
+- [pdfcomment] - This is one of those TODO packges. Comments are included in the PDF as separate layer.
 
 | key | meaning |
 | --- | ------- |
