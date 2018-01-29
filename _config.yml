@@ -6,4 +6,6 @@ exclude: [CNAME, README.md, .gitignore]
 timezone: null
 lsi: false
 
-theme: jekyll-theme-slate
+remote_theme: adr/slate
+anchors: true
+show_downloads: false
