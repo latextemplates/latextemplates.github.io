@@ -26,6 +26,8 @@ All templates are open source an can be found at <https://github.com/latextempla
 | [scientific-thesis-template]          | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
 | [uni-stuttgart-dissertation-template] | x         | x        | x        | x        | x        | p      | -                  | -    | x          |
 
+#### Legend
+
 - [microtype]: Better look of the papers. See <http://www.khirevich.com/latex/microtype/> for a longer explanation of microtype's features.
 - [hyperref]: Support of hyperlinked references without extra color.
 - [hypcap]: Hyperlinks to figures jump to the beginning of the figure and not just to the caption.
@@ -37,8 +39,6 @@ All templates are open source an can be found at <https://github.com/latextempla
 - [latexindent] config: Ready-to-go configuration to reindent *.tex files
 - [cmap]: Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
 - [pdfcomment]: This is one of those TODO packges. Comments are included in the PDF as separate layer.
-
-#### Legend
 
 | key | meaning |
 | --- | ------- |
