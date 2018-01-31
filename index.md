@@ -20,7 +20,7 @@ All templates are open source an can be found at <https://github.com/latextempla
 
 | template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | latexindent config | cmap | pdfcomment |
 | ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------------------ | ---- | ---------- |
-| [IEEE]                                | x         | x        | x        | x        | x        | p      | -                  | x    | x          |
+| [IEEE]                                | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
 | [LNI]                                 | x         | x        | x        | x        | x        | -      | -                  | x    | x          |
 | [LNCS]                                | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
 | [scientific-thesis-template]          | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
