@@ -22,7 +22,7 @@ All templates are open source an can be found at <https://github.com/latextempla
 | ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------   | ------ |------------------ | ---- | ---------- |
 | [IEEE]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
 | [LNI]                                 | x         | x        | x        | x        | x        | -      | o        | -      |-                  | x    | x          |
-| [LNCS]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
+| [LNCS]                                | x         | x        | x        | x        | x        | p      | -        | x      |x                  | x    | x          |
 | [scientific-thesis-template]          | x         | x        | x        | x        | x        | p      | x        | -      |x                  | x    | x          |
 | [uni-stuttgart-dissertation-template] | x         | x        | x        | x        | x        | p      | x        | -      |-                  | -    | x          |
 
