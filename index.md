@@ -18,13 +18,13 @@ All templates are open source an can be found at <https://github.com/latextempla
 
 ### Comparison
 
-| template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | latexindent config | cmap | pdfcomment |
-| ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------------------ | ---- | ---------- |
-| [IEEE]                                | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
-| [LNI]                                 | x         | x        | x        | x        | x        | -      | -                  | x    | x          |
-| [LNCS]                                | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
-| [scientific-thesis-template]          | x         | x        | x        | x        | x        | p      | x                  | x    | x          |
-| [uni-stuttgart-dissertation-template] | x         | x        | x        | x        | x        | p      | -                  | -    | x          |
+| template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | biblatex | natbib |latexindent config | cmap | pdfcomment |
+| ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------   | ------ |------------------ | ---- | ---------- |
+| [IEEE]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
+| [LNI]                                 | x         | x        | x        | x        | x        | -      | o        | -      |-                  | x    | x          |
+| [LNCS]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
+| [scientific-thesis-template]          | x         | x        | x        | x        | x        | p      | x        | -      |x                  | x    | x          |
+| [uni-stuttgart-dissertation-template] | x         | x        | x        | x        | x        | p      | x        | -      |-                  | -    | x          |
 
 #### Legend
 
@@ -36,6 +36,8 @@ All templates are open source an can be found at <https://github.com/latextempla
 - [minted] - Source code highlighting like a pro.
   In contrast to listings, it uses [pygments](http://pygments.org/) to highlight code.
   That provides better results.
+- [biblatex] - Advanced citation commands (such as `\cite[based on][]{ref}`) and UTF-8 support
+- [natbib] - Advanced citation commands (such as `\cite[based on][]{ref}`).
 - [latexindent] config - Ready-to-go configuration to reindent *.tex files
 - [cmap] - Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
 - [pdfcomment] - This is one of those TODO packges. Comments are included in the PDF as separate layer.
@@ -77,6 +79,7 @@ All templates are open source an can be found at <https://github.com/latextempla
   [uni-stuttgart-dissertation-template]: https://github.com/latextemplates/uni-stuttgart-dissertation-template
   [SAGP]: https://github.com/latextemplates/SAGP
 
+  [biblatex]: https://www.ctan.org/pkg/biblatex
   [booktabs]: https://www.ctan.org/pkg/booktabs
   [cleveref]: https://ctan.org/pkg/cleveref
   [cmap]: https://www.ctan.org/pkg/cmap
@@ -87,6 +90,7 @@ All templates are open source an can be found at <https://github.com/latextempla
   [listings]: https://ctan.org/pkg/listings
   [microtype]: https://ctan.org/pkg/microtype
   [minted]: https://ctan.org/pkg/minted
+  [natbib]: https://www.ctan.org/pkg/natbib
   [newtx]: https://ctan.org/pkg/newtx
   [paralist]: https://www.ctan.org/pkg/paralist
   [pdfcomment]: https://www.ctan.org/pkg/pdfcomment
