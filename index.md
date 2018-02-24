@@ -68,6 +68,7 @@ All templates are open source an can be found at <https://github.com/latextempla
  * German: <https://github.com/latextemplates/diplomarbeit-mit-latex> is a German Latex tutorial geared towards diploma thesis
 
 ## Other resources
+ * [awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - curated list of awesome stuff for the (La)TeX typesetting system
  * [Showcase of beautiful typography done in TeX & friends](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)
  * [The TeX showcase](http://www.tug.org/texshowcase/)
  * <http://wiki.flupp.de/latex>
