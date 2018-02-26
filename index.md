@@ -18,8 +18,11 @@ All templates are open source an can be found at <https://github.com/latextempla
 
 ### Comparison
 
+This table compares available templates on the net with templates offered here.
+
 | template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | biblatex | natbib |latexindent config | cmap | pdfcomment |
 | ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------   | ------ |------------------ | ---- | ---------- |
+| [ACM] v1.49                           | x         | x        | -        | -        | -        | -      | o        | x      | -                 | x    | x          |
 | [IEEE]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
 | [LNI]                                 | x         | x        | x        | x        | x        | -      | o        | -      |-                  | x    | x          |
 | [LNCS]                                | x         | x        | x        | x        | x        | p      | -        | x      |x                  | x    | x          |
@@ -73,6 +76,7 @@ All templates are open source an can be found at <https://github.com/latextempla
  * [The TeX showcase](http://www.tug.org/texshowcase/)
  * <http://wiki.flupp.de/latex>
 
+  [ACM]: https://github.com/borisveytsman/acmart
   [IEEE]: https://latextemplates.github.io/IEEE/
   [LNI]: https://github.com/gi-ev/LNI/
   [LNCS]: https://latextemplates.github.io/LNCS/
