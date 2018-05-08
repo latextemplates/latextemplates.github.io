@@ -20,7 +20,7 @@ All templates are open source an can be found at <https://github.com/latextempla
 
 This table compares available templates on the net with templates offered here.
 
-| template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | biblatex | natbib |latexindent config | cmap | pdfcomment |
+| template                              | microtype | hyperref | hypcap   | cleveref | listings | minted | biblatex | natbib |latexindent config | cmap/`glyphtounicode` | pdfcomment |
 | ------------------------------------- | --------- | -------- | -------- | -------- | -------- | ------ | ------   | ------ |------------------ | ---- | ---------- |
 | [ACM] v1.49                           | x         | x        | -        | -        | -        | -      | o        | x      | -                 | x    | x          |
 | [IEEE]                                | x         | x        | x        | x        | x        | p      | -        | -      |x                  | x    | x          |
@@ -42,7 +42,7 @@ This table compares available templates on the net with templates offered here.
 - [biblatex] - Advanced citation commands (such as `\cite[based on][]{ref}`) and UTF-8 support
 - [natbib] - Advanced citation commands (such as `\cite[based on][]{ref}`).
 - [latexindent] config - Ready-to-go configuration to reindent *.tex files
-- [cmap] - Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
+- [cmap]/`glyphtounicode` - Generated PDF allows for copy and paste of text without getting words with ligatures such as "workflow" destroyed.
 - [pdfcomment] - This is one of those TODO packges. Comments are included in the PDF as separate layer.
 
 | key | meaning |
