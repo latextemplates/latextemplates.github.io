@@ -5,13 +5,16 @@ The curent focus is on computer science, but other templates or links to other t
 
 All templates are open source an can be found at <https://github.com/latextemplates/>.
 
+{: .long}
 ## Templates hosted under this organization
 
 ### Research templates
- * [IEEE] - a quick start template for IEEE publications
- * [LNCS] - a quick start template for the Springer LNCS series
+
+* [IEEE] - a quick start template for IEEE publications
+* [LNCS] - a quick start template for the Springer LNCS series
 
 ### Thesis templates
+
  * [scientific-thesis-template] - a template for Bachelor and Master theses
  * [uni-stuttgart-dissertation-template] - a template for dissertations at University of Stuttgart
  * [SAGP] - a template for "[Soziale Arbeit, Gesundheit und Pflege](http://www.hs-esslingen.de/de/hochschule/fakultaeten/soziale-arbeit-gesundheit-und-pflege.html)" of Hochschule Esslingen
